@@ -2,13 +2,11 @@
 Want to connect? Here's my <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 </div>
 
-<h1>
-I'm an <a href="https://github.com/YOUR_USERNAME">Aspiring Fullstack Developer</a> on a journey to build products that are <a href="https://github.com/YOUR_USERNAME/fast-and-reliable">fast & reliable</a>
-</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F7F7F7&background=00000000&width=600&lines=I'm+an+%3C_Aspiring%2FFullstack%2FDeveloper_%3E" alt="I'm an Aspiring Fullstack Developer" />
+</p>
 
-<h3>
-Now it's time for me to ship my own ideas that are <a href="https://github.com/YOUR_USERNAME">faster & developer friendly</a>
-</h3>
+<h3 align="left">Now it's time for me to ship my own ideas <a href="https://github.com/YOUR_USERNAME">faster & developer friendly</a></h3>
 
 <br>
 
