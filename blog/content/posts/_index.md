@@ -1,1 +1,1 @@
-Hi. This is my blog. Bye for now.
+Welcome to my blog! Here I share my thoughts and lessons as I learn about software, full-stack development, and life. I'm Khush Ojha, and this is where I document my journey, discoveries, and insights along the way. Thanks for stopping by!
