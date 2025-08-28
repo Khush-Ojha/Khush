@@ -2,11 +2,9 @@
 Want to connect? Here's my <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 </div>
 
-<h1>
-I'm an <a href="https://github.com/YOUR_USERNAME">Aspiring Fullstack Developer</a> on a journey to build products that are <a href="https://github.com/YOUR_USERNAME/fast-and-reliable">fast & reliable</a>
-</h1>
+http://googleusercontent.com/image_generation_content/2
 
-<h3>
+###
 Now it's time for me to ship my own ideas that are <a href="https://github.com/YOUR_USERNAME">faster & developer friendly</a>
 </h3>
 
