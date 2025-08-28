@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#ff0055;">Khush Ojha</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#ff4b4b;">Khush Ojha</span></h1>
 <h3 align="center">💻 Fullstack Web Developer | AI/ML Enthusiast</h3>
 
 ---
 
 ### 🚀 Currently
-- Diving into **TypeScript** & **Data Structures**  
-- Exploring **React**, **Node.js**, **MongoDB**, and **Machine Learning**
+- Diving into <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> & Data Structures  
+- Exploring <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> and Machine Learning  
 
 ---
 
