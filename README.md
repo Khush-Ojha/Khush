@@ -27,7 +27,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khush-Ojha&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180"/>
 </p>  
 
@@ -62,6 +62,3 @@
 </p>  
 
 ---
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
