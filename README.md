@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Khush%20Ojha&fontSize=60&fontAlignY=35&animation=twinkling" />
+
 
 # 👋 Hi, I'm Khush Ojha  
 
