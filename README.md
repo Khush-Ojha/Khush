@@ -3,7 +3,7 @@ Want to connect? <a href="https://linkedin.com/in/YOUR_LINKEDIN">Here's my Linke
 </div>
 
 <h1>
-I'm an <a href="https://github.com/Khush-Ojha">Aspiring Fullstack Developer</a> helping companies ship products <a href="https://github.com/Khush-Ojha/fast-and-reliable" style="color: #f8346a;">fast & reliable</a>
+I'm an <a href="https://github.com/Khush-Ojha">Aspiring Fullstack Developer</a> <a href="https://github.com/Khush-Ojha/fast-and-reliable" style="color: #f8346a;"></a>
 </h1>
 
 <h3>
